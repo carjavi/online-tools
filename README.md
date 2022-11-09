@@ -89,8 +89,27 @@ https://www.renderforest.com/es/#Videos
 ## Geolocalizacion API
 https://ip-api.com/
 
+## Software de simulación de circuitos y diseño de PCB On-line
+https://easyeda.com/editor/
 
+## CAD DWG models
+https://dwgmodels.com/<br>
+https://grabcad.com/library<br>
+https://www.3dcontentcentral.com/<br>
+https://cad.thomasnet.com/cadmodels.html
 
+## Simulador electrico PLC/circuitos/
+https://masterplc.com/<br>
+https://dcaclab.com/es/lab<br>
+https://www.partsim.com/
+
+## Calculadora de códigos para resistencias SMD
+https://www.inventable.eu/paginas/SmdResCalculator/SmdResCalculator.html<br><br>
+https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-smd-resistor-code
+
+## Calculadora de código del capacitor SMD
+https://www.digikey.es/es/resources/conversion-calculators/conversion-calculator-smd-capacitor-code<br><br>
+https://mundovideo.com.co/landing/calculadoras/calculadora_de_codigos_capacitores.html
 
 
 <br>
