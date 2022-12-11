@@ -3,6 +3,15 @@
 <h1 align="center">On-line Tools</h1> 
 <h4 align="right">Oct 22</h4>
 
+## AI GPT-3
+### ChatGPT es un sistema de chat basado en el modelo de lenguaje por Inteligencia Artificial GPT-3. Puede crear código para solucionar problemas, puedes explicarlo, documentarlo y hacer resumensi.
+https://chat.openai.com/
+
+## AI que escribes sobre el tema que le digas
+https://www.shortlyai.com/
+
+## AI Dibuja tu boceto 
+https://www.autodraw.com/
 
 ##  Private code search engine 
 https://you.com/code
@@ -72,13 +81,7 @@ https://slidesgo.com/es/
 google patentes:
 https://patents.google.com/<br>
 google académico:
-https://scholar.google.es/ 
-
-## AI que escribes sobre el tema que le digas
-https://www.shortlyai.com/
-
-## AI Dibuja tu boceto 
-https://www.autodraw.com/
+https://scholar.google.es/
 
 ## Hacer diagramas de flujo
 https://www.draw.io/
