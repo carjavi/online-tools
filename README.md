@@ -4,7 +4,7 @@
 <h4 align="right">Oct 22</h4>
 
 ## AI GPT-3
-### ChatGPT es un sistema de chat basado en el modelo de lenguaje por Inteligencia Artificial GPT-3. Puede crear código para solucionar problemas, puedes explicarlo, documentarlo y hacer resumensi.
+### ChatGPT es un sistema de chat basado en el modelo de lenguaje por Inteligencia Artificial GPT-3. Puede crear código para solucionar problemas, puedes explicarlo, documentarlo y hacer resumenes. Puede hacer muchas cosas más. 
 https://chat.openai.com/
 
 ## AI que escribes sobre el tema que le digas
@@ -32,6 +32,13 @@ https://jscompress.com/
 
 ##  Javascript On-line beautifier
 https://beautifier.io/
+
+## Diagramas de flujos ON-line
+https://www.draw.io/
+
+## Cambiar el tamaño de lotes de imágenes On-line
+https://bulkresizephotos.com/es
+
 
 ## Chequear puertos abiertos en el PC local / ip Publica
 https://canyouseeme.org/
