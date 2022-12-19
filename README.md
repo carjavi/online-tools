@@ -60,6 +60,8 @@ https://icons8.com/icons/set/toggle <br>
 https://simpleicons.org/
 
 ##  Vector and icons
+https://worldvectorlogo.com/<br>
+https://icon666.com/<br>
 https://www.svgrepo.com/<br>
 https://www.vectorstock.com/<br>
 https://worldvectorlogo.com/
