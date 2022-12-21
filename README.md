@@ -13,10 +13,10 @@ https://www.shortlyai.com/
 ## AI Dibuja tu boceto 
 https://www.autodraw.com/
 
-##  Private code search engine 
+## Private code search engine 
 https://you.com/code
 
-##  On-line regular expressions
+## On-line regular expressions
 https://www.regexpal.com/<br>
 https://regex101.com/<br>
 https://regexr.com/
@@ -24,13 +24,13 @@ https://regexr.com/
 ##  Python Online Compiler
 https://www.programiz.com/python-programming/online-compiler/
 
-##  JavaScript Online Compiler
+## JavaScript Online Compiler
 https://www.programiz.com/javascript/online-compiler/
 
-##  Minify JavaScript
+## Minify JavaScript
 https://jscompress.com/
 
-##  Javascript On-line beautifier
+## Javascript On-line beautifier
 https://beautifier.io/
 
 ## Diagramas de flujos ON-line
@@ -39,34 +39,33 @@ https://www.draw.io/
 ## Cambiar el tamaño de lotes de imágenes On-line
 https://bulkresizephotos.com/es
 
-
 ## Chequear puertos abiertos en el PC local / ip Publica
 https://canyouseeme.org/
 
-##  what font? (chrome-extension) 
+## what font? (chrome-extension) 
 identify any font on the page
 https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?gclid=Cj0KCQjwwfiaBhC7ARIsAGvcPe5pPl7yebkAPAEdLNzc3gf1fUycENEJK7vcAIU_3FWG7VT8j25EXREaAjX_EALw_wcB
 
-##  Postman (chrome-extension) 
+## Postman (chrome-extension) 
 Postman is an API client that makes it easy for developers to create, share, test and document APIs.
 https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop
 
-##  HTML color
+## HTML color
 https://htmlcolorcodes.com/es/
 
-##  icons website
+## icons website
 https://fontawesome.com/<br>
 https://icons8.com/icons/set/toggle <br>
 https://simpleicons.org/
 
-##  Vector and icons
+## Vector and icons
 https://worldvectorlogo.com/<br>
 https://icon666.com/<br>
 https://www.svgrepo.com/<br>
 https://www.vectorstock.com/<br>
 https://worldvectorlogo.com/
 
-##  PNG
+## PNG
 https://www.hiclipart.com/ <br>
 https://www.pngwing.com/es/
 
@@ -123,6 +122,8 @@ https://www.digikey.com/es/resources/conversion-calculators/conversion-calculato
 https://www.digikey.es/es/resources/conversion-calculators/conversion-calculator-smd-capacitor-code<br><br>
 https://mundovideo.com.co/landing/calculadoras/calculadora_de_codigos_capacitores.html
 
+## Calculadora de IVA
+https://lacontadora.cl/pages/calculadora-de-iva 
 
 <br>
 <br>
