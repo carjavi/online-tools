@@ -76,6 +76,12 @@ https://wallhere.com/
 ## Join PDF
 https://converter.app/join-pdf/
 
+## Unlock PDF
+https://www.sodapdf.com/unlock-pdf/
+
+## Text to ASCII
+https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
+
 ## Cambiar tamaño a fotos
 https://bulkresizephotos.com/es
 
