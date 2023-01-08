@@ -13,6 +13,16 @@ https://www.shortlyai.com/
 ## AI Dibuja tu boceto 
 https://www.autodraw.com/
 
+## AI Diseña un logotipo
+Crea un sitio web y crea una identidad de marca que te encantará con el poder de Al.
+
+https://www.looka.com
+
+## AI Redactor de texto
+Obtenga una gran copia que venda. Copy.ai es un redactor con tecnología de Al que genera textos de alta calidad para su negocio.
+
+https://www.copy.ai
+
 ## Private code search engine 
 https://you.com/code
 
@@ -103,8 +113,26 @@ https://www.draw.io/
 ## Herramienta para diseño logos, Mockups etc.
 https://www.renderforest.com/es/#Videos
 
-## Geolocalizacion API
+
+## Geolocalización API
 https://ip-api.com/
+
+
+## Eliminar objetos no deseados de fotos, personas, texto y defectos de cualquier imagen.
+https://cleanup.pictures/
+
+
+## El currículum vitae en línea y el calificador de Linkedln califican instantáneamente su currículum y perfil de Linkedln 
+le brindan comentarios detallados sobre cómo obtener más oportunidades y entrevistas.
+
+https://www.resumeworded.com
+
+
+## Soundraw es un generador de música para creadores.
+Seleccione el tipo de música que desea género, instrumentos, estado de ánimo, duración, etc. y deje que Al genere hermosas canciones para usted.
+
+https://soundraw.io/
+
 
 ## Software de simulación de circuitos y diseño de PCB On-line
 https://easyeda.com/editor/
