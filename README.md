@@ -1,3 +1,4 @@
+
 <p align="center"><img src="https://raw.githubusercontent.com/carjavi/online-tools/master/img/online-tools.jpg" height="200" alt=" " /></p>
 <br>
 <h1 align="center">On-line Tools</h1> 
@@ -114,6 +115,9 @@ https://scholar.google.es/
 
 ## Hacer diagramas de flujo
 https://www.draw.io/
+
+## Software de gestión de ideas. free create concept Maps. multiusers.
+https://miro.com/es/mapa-conceptual/
 
 ## Herramienta para diseño logos, Mockups etc.
 https://www.renderforest.com/es/#Videos
