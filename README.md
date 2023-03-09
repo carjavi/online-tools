@@ -4,6 +4,8 @@
 <h1 align="center">On-line Tools</h1> 
 <h4 align="right">Oct 22</h4>
 
+# AI 
+
 ## AI GPT-3
 ### ChatGPT es un sistema de chat basado en el modelo de lenguaje por Inteligencia Artificial GPT-3. Puede crear código para solucionar problemas, puedes explicarlo, documentarlo y hacer resumenes. Puede hacer muchas cosas más. 
 https://chat.openai.com/
@@ -29,42 +31,15 @@ Seleccione el tipo de música que desea género, instrumentos, estado de ánimo,
 
 https://soundraw.io/
 
-## Private code search engine 
-https://you.com/code
+<br>
 
-## On-line regular expressions
-https://www.regexpal.com/<br>
-https://regex101.com/<br>
-https://regexr.com/
+# WEB
 
-##  Python Online Compiler
-https://www.programiz.com/python-programming/online-compiler/
+## Mide la velocidad de carga de una página web (google)<br>
+https://pagespeed.web.dev/
 
-## JavaScript Online Compiler
-https://www.programiz.com/javascript/online-compiler/
-
-## Minify JavaScript
-https://jscompress.com/
-
-## Javascript On-line beautifier
-https://beautifier.io/
-
-## Diagramas de flujos ON-line
-https://www.draw.io/
-
-## Cambiar el tamaño de lotes de imágenes On-line
-https://bulkresizephotos.com/es
-
-## Chequear puertos abiertos en el PC local / ip Publica
-https://canyouseeme.org/
-
-## what font? (chrome-extension) 
-identify any font on the page
-https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?gclid=Cj0KCQjwwfiaBhC7ARIsAGvcPe5pPl7yebkAPAEdLNzc3gf1fUycENEJK7vcAIU_3FWG7VT8j25EXREaAjX_EALw_wcB
-
-## Postman (chrome-extension) 
-Postman is an API client that makes it easy for developers to create, share, test and document APIs.
-https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop
+## Mide la velocidad de carga de una página web 
+https://gtmetrix.com/
 
 ## HTML color
 https://htmlcolorcodes.com/es/
@@ -89,62 +64,88 @@ https://www.pngwing.com/es/
 https://www.freepik.es/<br>
 https://wallhere.com/
 
-## Join PDF
-https://converter.app/join-pdf/
+## Chequear puertos abiertos en el PC local / ip Publica
+https://canyouseeme.org/
 
-## Unlock PDF
-https://www.sodapdf.com/unlock-pdf/
+<br>
 
-## Text to ASCII
-https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
+# Programming
+
+## Private code search engine 
+https://you.com/code
+
+## On-line regular expressions
+https://www.regexpal.com/<br>
+https://regex101.com/<br>
+https://regexr.com/
+
+## Python Online Compiler
+https://www.programiz.com/python-programming/online-compiler/
+
+## JavaScript Online Compiler
+https://www.programiz.com/javascript/online-compiler/
+
+## Minify JavaScript
+https://jscompress.com/
+
+## Javascript On-line beautifier
+https://beautifier.io/
+
+## Diagramas de flujos ON-line
+https://www.draw.io/
+
+
+<br>
+
+# Imagens Tools
+
+## Editor de imágenes avanzado 
+Admite formatos RAW, PDF, AI, PSD, XCF, SKETCH, XD, CDR (Adobe photoshop, GIMP, Sketch App, Adobe XD, CorelDRAW).<br>
+https://www.photopea.com/
 
 ## Cambiar tamaño a fotos
 https://bulkresizephotos.com/es
 
-## Enviara archivos mayores a 2GB
-https://wetransfer.com/
+## cambiar el tamaño de la imagen
+https://imageresizer.com/es
 
-## Plantillas gratis Google y PowerPoint
-https://slidesgo.com/es/
-
-## Google
-google patentes:
-https://patents.google.com/<br>
-google académico:
-https://scholar.google.es/
-
-## Hacer diagramas de flujo
-https://www.draw.io/
-
-## Software de gestión de ideas. free create concept Maps. multiusers.
-https://miro.com/es/mapa-conceptual/
+## Cambiar el tamaño de lotes de imágenes On-line
+https://bulkresizephotos.com/es
 
 ## Herramienta para diseño logos, Mockups etc.
 https://www.renderforest.com/es/#Videos
 
-
-## Geolocalización API
-https://ip-api.com/
-
-
 ## Eliminar objetos no deseados de fotos, personas, texto y defectos de cualquier imagen.
 https://cleanup.pictures/
 
+<br>
 
-## El currículum vitae en línea y el calificador de Linkedln califican instantáneamente su currículum y perfil de Linkedln 
-le brindan comentarios detallados sobre cómo obtener más oportunidades y entrevistas.
+# Chrome Extension
 
-https://www.resumeworded.com
+## what font? (chrome-extension) 
+identify any font on the page
+https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?gclid=Cj0KCQjwwfiaBhC7ARIsAGvcPe5pPl7yebkAPAEdLNzc3gf1fUycENEJK7vcAIU_3FWG7VT8j25EXREaAjX_EALw_wcB
 
+## Postman (chrome-extension) 
+Postman is an API client that makes it easy for developers to create, share, test and document APIs.
+https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop
 
-## Software de simulación de circuitos y diseño de PCB On-line
-https://easyeda.com/editor/
+<br>
+
+# Design
 
 ## CAD DWG models
 https://dwgmodels.com/<br>
 https://grabcad.com/library<br>
 https://www.3dcontentcentral.com/<br>
 https://cad.thomasnet.com/cadmodels.html
+
+<br>
+
+# Electronic
+
+## Software de simulación de circuitos y diseño de PCB On-line
+https://easyeda.com/editor/
 
 ## Simulador electrico PLC/circuitos/
 https://masterplc.com/<br>
@@ -158,6 +159,41 @@ https://www.digikey.com/es/resources/conversion-calculators/conversion-calculato
 ## Calculadora de código del capacitor SMD
 https://www.digikey.es/es/resources/conversion-calculators/conversion-calculator-smd-capacitor-code<br><br>
 https://mundovideo.com.co/landing/calculadoras/calculadora_de_codigos_capacitores.html
+
+<br>
+
+# Others
+
+## Join PDF
+https://converter.app/join-pdf/
+
+## Unlock PDF
+https://www.sodapdf.com/unlock-pdf/
+
+## Text to ASCII
+https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
+
+## Enviara archivos mayores a 2GB
+https://wetransfer.com/
+
+## Plantillas gratis Google y PowerPoint
+https://slidesgo.com/es/
+
+## Google
+google patentes:
+https://patents.google.com/<br>
+google académico:
+https://scholar.google.es/
+
+## Software de gestión de ideas. free create concept Maps. multiusers.
+https://miro.com/es/mapa-conceptual/
+
+## Geolocalización API
+https://ip-api.com/
+
+## El currículum vitae en línea y el calificador de Linkedln califican instantáneamente su currículum y perfil de Linkedln 
+le brindan comentarios detallados sobre cómo obtener más oportunidades y entrevistas.<br>
+https://www.resumeworded.com
 
 ## Calculadora de IVA
 https://lacontadora.cl/pages/calculadora-de-iva 
