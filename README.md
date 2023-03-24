@@ -56,7 +56,7 @@ https://www.svgrepo.com/<br>
 https://www.vectorstock.com/<br>
 https://worldvectorlogo.com/
 
-## PNG
+## Banco de imagenes PNG 
 https://www.hiclipart.com/ <br>
 https://www.pngwing.com/es/
 
@@ -106,7 +106,7 @@ https://www.photopea.com/
 ## Cambiar tamaño a fotos
 https://bulkresizephotos.com/es
 
-## cambiar el tamaño de la imagen
+## Cambiar el tamaño de la imagen
 https://imageresizer.com/es
 
 ## Cambiar el tamaño de lotes de imágenes On-line
@@ -117,6 +117,9 @@ https://www.renderforest.com/es/#Videos
 
 ## Eliminar objetos no deseados de fotos, personas, texto y defectos de cualquier imagen.
 https://cleanup.pictures/
+
+## convertir HEIC a PNG
+https://heic2png.com/es
 
 <br>
 
