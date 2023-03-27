@@ -47,7 +47,10 @@ https://htmlcolorcodes.com/es/
 ## icons website
 https://fontawesome.com/<br>
 https://icons8.com/icons/set/toggle <br>
-https://simpleicons.org/
+https://simpleicons.org/<br>
+https://fontawesome.com/<br>
+#### Weather Icons
+http://erikflowers.github.io/weather-icons/
 
 ## Vector and icons
 https://worldvectorlogo.com/<br>
@@ -55,6 +58,7 @@ https://icon666.com/<br>
 https://www.svgrepo.com/<br>
 https://www.vectorstock.com/<br>
 https://worldvectorlogo.com/
+
 
 ## Banco de imagenes PNG 
 https://www.hiclipart.com/ <br>
@@ -66,6 +70,9 @@ https://wallhere.com/
 
 ## Chequear puertos abiertos en el PC local / ip Publica
 https://canyouseeme.org/
+
+## Font google
+https://fonts.google.com/
 
 <br>
 
