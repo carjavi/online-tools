@@ -210,8 +210,8 @@ https://lacontadora.cl/pages/calculadora-de-iva
 
 # Downloads
 
-<img  align="bottom" width="18" height="18" src="https://raw.githubusercontent.com/carjavi/online-tools/master/img/download-file.svg"> [[Visual Code Studio for ARM ver 1.55.0](https://www.mediafire.com/file/r29ir46aun9ot81/visualcode_1.55.0-1617120720_amd64.deb/file)]<br>
-<img  align="bottom" width="16" height="16" src="https://raw.githubusercontent.com/carjavi/online-tools/master/img/download-file.svg"> [[Officce 2019](https://www.mediafire.com/file/51oubx1ddgthw2u/Office2019.rar/file)]<br>
+<img  align="bottom" width="18" height="18" src="https://raw.githubusercontent.com/carjavi/online-tools/master/img/download-box.svg"> [[Visual Code Studio for ARM ver 1.55.0](https://www.mediafire.com/file/r29ir46aun9ot81/visualcode_1.55.0-1617120720_amd64.deb/file)]<br>
+<img  align="bottom" width="16" height="16" src="https://raw.githubusercontent.com/carjavi/online-tools/master/img/download-box.svg"> [[Officce 2019](https://www.mediafire.com/file/51oubx1ddgthw2u/Office2019.rar/file)]<br>
 
 
 <br>
