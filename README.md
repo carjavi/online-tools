@@ -212,7 +212,7 @@ https://lacontadora.cl/pages/calculadora-de-iva
 
 # Downloads
 
-<img  align="middle" width="32" height="32" src="https://raw.githubusercontent.com/carjavi/online-tools/master/img/icon-download.gif"> [test](https://url.com)
+<img  align="middle" width="12" height="12" src="https://raw.githubusercontent.com/carjavi/online-tools/master/img/icon-download.gif"> [test](https://url.com)
 
 [[Ubuntu 18 ISO](https://)] <br>
 [[Officce 2019](https://)] <br>
