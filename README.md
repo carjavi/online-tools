@@ -208,14 +208,10 @@ https://www.resumeworded.com
 ## Calculadora de IVA
 https://lacontadora.cl/pages/calculadora-de-iva 
 
-<br>
-
 # Downloads
 
-<img  align="bottom" width="16" height="16" src="https://raw.githubusercontent.com/carjavi/online-tools/master/img/icon-download.gif"> [[Ubuntu 18 ISO](https://url.com)]<br>
-<img  align="bottom" width="16" height="16" src="https://raw.githubusercontent.com/carjavi/online-tools/master/img/icon-download.gif"> [[Officce 2019](https://url.com)]<br>
-<img  align="bottom" width="16" height="16" src="https://raw.githubusercontent.com/carjavi/online-tools/master/img/icon-download.gif"> [[Visual Code Studio for ARM ver 1.55.0](https://)]<br>
-
+<img  align="bottom" width="16" height="16" src="https://raw.githubusercontent.com/carjavi/online-tools/master/img/icons-download-96x96.png"> [[Visual Code Studio for ARM ver 1.55.0](https://www.mediafire.com/file/r29ir46aun9ot81/visualcode_1.55.0-1617120720_amd64.deb/file)]<br>
+<img  align="bottom" width="16" height="16" src="https://raw.githubusercontent.com/carjavi/online-tools/master/img/icons-download-96x96.png"> [[Officce 2019](https://url.com)]<br>
 
 
 <br>
