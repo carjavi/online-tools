@@ -212,11 +212,9 @@ https://lacontadora.cl/pages/calculadora-de-iva
 
 # Downloads
 
-<img  align="bottom" width="16" height="16" src="https://raw.githubusercontent.com/carjavi/online-tools/master/img/icon-download.gif"> [test](https://url.com)
-
-[[Ubuntu 18 ISO](https://)] <br>
-[[Officce 2019](https://)] <br>
-[[Visual Code Studio for ARM ver 1.55.0](https://)] <br>
+<img  align="bottom" width="16" height="16" src="https://raw.githubusercontent.com/carjavi/online-tools/master/img/icon-download.gif"> [[Ubuntu 18 ISO](https://url.com)]<br>
+<img  align="bottom" width="16" height="16" src="https://raw.githubusercontent.com/carjavi/online-tools/master/img/icon-download.gif"> [[Officce 2019](https://url.com)]<br>
+<img  align="bottom" width="16" height="16" src="https://raw.githubusercontent.com/carjavi/online-tools/master/img/icon-download.gif"> [[Visual Code Studio for ARM ver 1.55.0](https://)]<br>
 
 
 
