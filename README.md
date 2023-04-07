@@ -36,7 +36,7 @@ https://www.makesense.ai/
 https://github.com/SkalskiP
 
 
-## AI Analisis de emociones AI (demo/es de pago)
+## AI Analisis de emociones en texto (demo/es de pago)
 https://komprehend.io/emotion-analysis
 
 
@@ -131,7 +131,7 @@ https://www.renderforest.com/es/#Videos
 ## Eliminar objetos no deseados de fotos, personas, texto y defectos de cualquier imagen.
 https://cleanup.pictures/
 
-## convertir HEIC a PNG
+## Convertir HEIC a PNG
 https://heic2png.com/es
 
 ## Banco de imagenes PNG 
@@ -142,10 +142,10 @@ https://www.pngwing.com/es/
 https://www.freepik.es/<br>
 https://wallhere.com/
 
-## visualizador SGV code files
+## Visualizador SGV code files
 https://editsvgcode.com/
 
-### viewer,edit,optimize SVG
+### Viewer,edit,optimize SVG
 https://www.svgviewer.dev/
 
 ## Imagenes Vectoriales con commands SVG
