@@ -31,6 +31,15 @@ Seleccione el tipo de música que desea género, instrumentos, estado de ánimo,
 
 https://soundraw.io/
 
+## Hacer reconocimiento de Objetos en imagenes Open Source
+https://www.makesense.ai/
+https://github.com/SkalskiP
+
+
+## AI Analisis de emociones AI (demo/es de pago)
+https://komprehend.io/emotion-analysis
+
+
 <br>
 
 # WEB
@@ -58,15 +67,6 @@ https://icon666.com/<br>
 https://www.svgrepo.com/<br>
 https://www.vectorstock.com/<br>
 https://worldvectorlogo.com/
-
-
-## Banco de imagenes PNG 
-https://www.hiclipart.com/ <br>
-https://www.pngwing.com/es/
-
-## Descargar imagenes & Wallpaper
-https://www.freepik.es/<br>
-https://wallhere.com/
 
 ## Chequear puertos abiertos en el PC local / ip Publica
 https://canyouseeme.org/
@@ -101,6 +101,12 @@ https://beautifier.io/
 ## Diagramas de flujos ON-line
 https://www.draw.io/
 
+## Visualizador de canvas javascript
+https://editor.p5js.org/
+
+## Online Image Converter Convert BMP, JPG, PNG, or SVG to C array or binary to use them in LVGL.
+https://lvgl.io/tools/imageconverter
+http://javl.github.io/image2cpp/
 
 <br>
 
@@ -127,6 +133,23 @@ https://cleanup.pictures/
 
 ## convertir HEIC a PNG
 https://heic2png.com/es
+
+## Banco de imagenes PNG 
+https://www.hiclipart.com/ <br>
+https://www.pngwing.com/es/
+
+## Descargar imagenes & Wallpaper
+https://www.freepik.es/<br>
+https://wallhere.com/
+
+## visualizador SGV code files
+https://editsvgcode.com/
+
+### viewer,edit,optimize SVG
+https://www.svgviewer.dev/
+
+## Imagenes Vectoriales con commands SVG
+https://www.w3schools.com/graphics/svg_reference.asp
 
 <br>
 
@@ -173,6 +196,10 @@ https://mundovideo.com.co/landing/calculadoras/calculadora_de_codigos_capacitore
 <br>
 
 # Others
+
+## Musica sin copyright
+https://soundcloud.com/user-57630131
+https://www.audiolibrary.com.co/
 
 ## Join PDF
 https://converter.app/join-pdf/
