@@ -39,6 +39,9 @@ https://github.com/SkalskiP
 ## AI Analisis de emociones en texto (demo/es de pago)
 https://komprehend.io/emotion-analysis
 
+## Crear video con Avatar & AI
+https://studio.d-id.com/
+
 
 <br>
 
@@ -62,11 +65,15 @@ https://fontawesome.com/<br>
 http://erikflowers.github.io/weather-icons/
 
 ## Vector and icons
+https://cdnlogo.com/<br>
 https://worldvectorlogo.com/<br>
 https://icon666.com/<br>
 https://www.svgrepo.com/<br>
 https://www.vectorstock.com/<br>
 https://worldvectorlogo.com/
+
+## CDN SVG para HTML / Markdown 
+https://devicon.dev/
 
 ## Chequear puertos abiertos en el PC local / ip Publica
 https://canyouseeme.org/
@@ -108,6 +115,9 @@ https://editor.p5js.org/
 https://lvgl.io/tools/imageconverter
 http://javl.github.io/image2cpp/
 
+
+
+
 <br>
 
 # Imagens Tools
@@ -142,7 +152,7 @@ https://www.pngwing.com/es/
 https://www.freepik.es/<br>
 https://wallhere.com/
 
-## Visualizador SGV code files
+## Visualizador SGV code files / SVG Filters / SVG Basic Shapes / SVG Gradients
 https://editsvgcode.com/
 
 ### Viewer,edit,optimize SVG
@@ -150,6 +160,11 @@ https://www.svgviewer.dev/
 
 ## Imagenes Vectoriales con commands SVG
 https://www.w3schools.com/graphics/svg_reference.asp
+
+## Convertir imagen a icono
+https://redketchup.io/icon-converter<br>
+https://image.online-convert.com/convert-to-ico<br>
+https://convertio.co/es/png-ico/<br>
 
 <br>
 
@@ -200,6 +215,18 @@ https://mundovideo.com.co/landing/calculadoras/calculadora_de_codigos_capacitore
 ## Musica sin copyright
 https://soundcloud.com/user-57630131
 https://www.audiolibrary.com.co/
+
+## Enrich your GitHub profile
+https://towardsdatascience.com/enrich-your-github-profile-with-these-tips-272fa1eafe05<br>
+https://github.com/codeSTACKr/github-readme-stats
+
+## Counteer visits for Markdown
+https://hits.seeyoufarm.com/
+https://visitor-badge.glitch.me/#docs
+
+
+## contador de clicks
+https://www.linkclickcounter.com/
 
 ## Join PDF
 https://converter.app/join-pdf/
