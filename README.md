@@ -212,6 +212,9 @@ https://mundovideo.com.co/landing/calculadoras/calculadora_de_codigos_capacitore
 
 # Others
 
+## Savethevideo Facebook, Twitter, TikTok, likee, Linkedin, Instagram, Kawai and a lot more.
+https://savethevideo.net/
+
 ## Musica sin copyright
 https://soundcloud.com/user-57630131
 https://www.audiolibrary.com.co/
