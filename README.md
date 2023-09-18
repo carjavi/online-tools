@@ -21,6 +21,9 @@ Crea un sitio web y crea una identidad de marca que te encantará con el poder d
 
 https://www.looka.com
 
+## AI para crear PCB
+https://www.flux.ai/p
+
 ## AI Redactor de texto
 Obtenga una gran copia que venda. Copy.ai es un redactor con tecnología de Al que genera textos de alta calidad para su negocio.
 
@@ -227,6 +230,12 @@ https://github.com/codeSTACKr/github-readme-stats
 https://hits.seeyoufarm.com/
 https://visitor-badge.glitch.me/#docs
 
+## Herramientas PDF
+https://www.ilovepdf.com/es  
+editar, uninir, dividir comprimir, exportar a otro formato, desbloquear, proteger, rotar, reprar, firmar, OCR, marca de agua 
+
+## Comprimir PDF
+https://www.ilovepdf.com/es/comprimir_pdf
 
 ## contador de clicks
 https://www.linkclickcounter.com/
