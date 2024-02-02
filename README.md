@@ -81,6 +81,9 @@ https://devicon.dev/
 ## Chequear puertos abiertos en el PC local / ip Publica
 https://canyouseeme.org/
 
+## Ver my IP de mi dominio
+https://ping.eu/ping/
+
 ## Font google
 https://fonts.google.com/
 
@@ -144,8 +147,14 @@ https://www.renderforest.com/es/#Videos
 ## Eliminar objetos no deseados de fotos, personas, texto y defectos de cualquier imagen.
 https://cleanup.pictures/
 
+## Remueve el fondo de una foto (API / pluging)
+https://www.remove.bg/es
+
 ## Convertir HEIC a PNG
 https://heic2png.com/es
+
+## Conversor WEBP a PNG
+https://convertio.co/es/webp-png/
 
 ## Banco de imagenes PNG 
 https://www.hiclipart.com/ <br>
@@ -279,7 +288,7 @@ https://lacontadora.cl/pages/calculadora-de-iva
 # Downloads
 
 <img  align="bottom" width="18" height="18" src="https://raw.githubusercontent.com/carjavi/online-tools/master/img/download-box.svg"> [[Visual Code Studio for ARM ver 1.55.0](https://www.mediafire.com/file/r29ir46aun9ot81/visualcode_1.55.0-1617120720_amd64.deb/file)]<br>
-<img  align="bottom" width="16" height="16" src="https://raw.githubusercontent.com/carjavi/online-tools/master/img/download-box.svg"> [[Officce 2019](https://www.mediafire.com/file/51oubx1ddgthw2u/Office2019.rar/file)]<br>
+<img  align="bottom" width="16" height="16" src="https://raw.githubusercontent.com/carjavi/online-tools/master/img/download-box.svg"> [[Officce 2019](/file/51oubx1ddgthw2u/Office2019.rar/file)]<br>
 
 
 <br>
