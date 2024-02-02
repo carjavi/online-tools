@@ -45,6 +45,9 @@ https://komprehend.io/emotion-analysis
 ## Crear video con Avatar & AI
 https://studio.d-id.com/
 
+## Vectorizer imagen AI
+https://vectorizer.ai/
+
 
 <br>
 
@@ -282,6 +285,14 @@ https://www.resumeworded.com
 
 ## Calculadora de IVA
 https://lacontadora.cl/pages/calculadora-de-iva 
+
+## Bajar videos facebook
+https://fdown.ne<br>
+https://snapsave.app/<br>
+https://www.getfvid.com/es<br>
+
+## Bajar de instagram 
+colocar sss en la url
 
 <br>
 
