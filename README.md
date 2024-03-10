@@ -129,6 +129,9 @@ https://editor.p5js.org/
 https://lvgl.io/tools/imageconverter
 http://javl.github.io/image2cpp/
 
+## calculdora de horas, min, segudos
+https://calculadorasonline.com/calculadora-de-horas-minutos-y-segundos-sumar-horas-restar-horas/
+
 
 
 
