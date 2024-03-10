@@ -224,9 +224,16 @@ https://www.partsim.com/
 https://www.inventable.eu/paginas/SmdResCalculator/SmdResCalculator.html<br><br>
 https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-smd-resistor-code
 
-## Calculadora de código del capacitor SMD
+## Calculadora de codigo del capacitor SMD
 https://www.digikey.es/es/resources/conversion-calculators/conversion-calculator-smd-capacitor-code<br><br>
 https://mundovideo.com.co/landing/calculadoras/calculadora_de_codigos_capacitores.html
+
+<br>
+
+# Entertainment
+
+## Ver series de Anime & Manga
+https://www.crunchyroll.com/
 
 <br>
 
