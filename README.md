@@ -57,9 +57,10 @@ https://vectorizer.ai/
 
 ## Mide la velocidad de carga de una página web (google)<br>
 https://pagespeed.web.dev/
+https://gtmetrix.com/ <br>
 
-## Mide la velocidad de carga de una página web 
-https://gtmetrix.com/
+## Abre Microsoft Word en el browser
+doc.new
 
 ## HTML color
 https://htmlcolorcodes.com/es/
