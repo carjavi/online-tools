@@ -48,6 +48,8 @@ https://studio.d-id.com/
 ## Vectorizer imagen AI
 https://vectorizer.ai/
 
+## Practicar entrevista de trabajo en ingles
+[interviewsby.ai](https://interviewsby.ai/)
 
 <br>
 
@@ -89,6 +91,9 @@ https://ping.eu/ping/
 
 ## Font google
 https://fonts.google.com/
+
+## Probar webcam desde browser
+https://es.webcamtests.com/
 
 <br>
 
