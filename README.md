@@ -10,6 +10,9 @@
 ### ChatGPT es un sistema de chat basado en el modelo de lenguaje por Inteligencia Artificial GPT-3. Puede crear código para solucionar problemas, puedes explicarlo, documentarlo y hacer resumenes. Puede hacer muchas cosas más. 
 https://chat.openai.com/
 
+## Herramienta AI completa genera video/subir documentos/ es gratis creada por alibaba 
+https://chat.qwen.ai/
+
 ## AI que escribes sobre el tema que le digas
 https://www.shortlyai.com/
 
@@ -51,6 +54,19 @@ https://vectorizer.ai/
 ## Practicar entrevista de trabajo en ingles
 [interviewsby.ai](https://interviewsby.ai/)
 
+## Mover la cara de una persona de una foto con AI
+https://huggingface.co/spaces/jbilcke-hf/FacePoke
+
+## Crea interfaz graficas tipo chatGpt3 (no me pude registrar)
+https://v0.dev/
+
+## Codex Open AI
+https://openai.com/blog/openai-codex
+
+## Verificar CV with AI
+También te dice si tu CV es legible por sistemas ATS (el sistema automático que usan las empresas y los reclutadores)
+https://www.resumego.net/resume-checker/
+
 <br>
 
 # WEB
@@ -61,6 +77,9 @@ https://gtmetrix.com/ <br>
 
 ## Abre Microsoft Word en el browser
 doc.new
+
+## Genetarador de Grid para CSS (bueno)
+https://www.tailwindgen.com/
 
 ## HTML color
 https://htmlcolorcodes.com/es/
@@ -140,9 +159,15 @@ https://calculadorasonline.com/calculadora-de-horas-minutos-y-segundos-sumar-hor
 
 # Imagens Tools
 
+## Vectorizar imagen gratis
+https://vectorizer.com/es/
+
 ## Editor de imágenes avanzado 
 Admite formatos RAW, PDF, AI, PSD, XCF, SKETCH, XD, CDR (Adobe photoshop, GIMP, Sketch App, Adobe XD, CorelDRAW).<br>
 https://www.photopea.com/
+
+## Conversor HEIC a WEBP
+https://convertio.co/es/heic-webp/
 
 ## Cambiar tamaño a fotos
 https://bulkresizephotos.com/es
@@ -190,6 +215,9 @@ https://redketchup.io/icon-converter<br>
 https://image.online-convert.com/convert-to-ico<br>
 https://convertio.co/es/png-ico/<br>
 
+## Viewer metadata 
+https://jimpl.com/
+
 <br>
 
 # Chrome Extension
@@ -231,6 +259,9 @@ https://www.digikey.com/es/resources/conversion-calculators/conversion-calculato
 ## Calculadora de codigo del capacitor SMD
 https://www.digikey.es/es/resources/conversion-calculators/conversion-calculator-smd-capacitor-code<br><br>
 https://mundovideo.com.co/landing/calculadoras/calculadora_de_codigos_capacitores.html
+
+## Calculo de divisor de voltaje
+https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-voltage-divider
 
 <br>
 
@@ -309,6 +340,12 @@ https://www.getfvid.com/es<br>
 
 ## Bajar de instagram 
 colocar sss en la url
+
+## Descargar videos de linkedin
+https://taplio.com/linkedin-video-downloader
+
+## Auto Parts Around the World
+https://partsouq.com/
 
 <br>
 
