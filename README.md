@@ -6,11 +6,15 @@
 
 # AI 
 
-## ChatLLM Todas las IA en una sola Web (Imágenes, Videos, Código, Texto y Más)
+## ChatLLM Todas las IA en una sola Web (Imágenes, Videos, Código, Texto y Más) / de pago!
 https://chatllm.abacus.ai/
 
 ## AI GPT-3/4
 https://chat.openai.com/
+
+## Deepseek AI
+https://chat.deepseek.com/
+
 
 ## Herramienta AI completa genera video/subir documentos/ es gratis creada por alibaba 
 https://chat.qwen.ai/
