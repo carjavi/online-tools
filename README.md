@@ -9,11 +9,26 @@
 ## ChatLLM Todas las IA en una sola Web (Imágenes, Videos, Código, Texto y Más) / de pago!
 https://chatllm.abacus.ai/
 
+## AI Crea completas apps using React/TypeScript
+https://llamacoder.together.ai/ 
+
 ## AI GPT-3/4
 https://chat.openai.com/
 
 ## Deepseek AI
 https://chat.deepseek.com/
+
+## Crear Logo con AI (pago)
+https://logodiffusion.com/
+
+## Automatizar envio de mensajes con whatsapp (Evolution API)
+https://doc.evolution-api.com/v1/en/get-started/introduction
+
+## Editor de fotos con AI (gratis)
+https://kontext-chat.replicate.dev/
+
+## Crea proyectos en react AI
+https://llamacoder.together.ai/ 
 
 
 ## Herramienta AI completa genera video/subir documentos/ es gratis creada por alibaba 
@@ -26,8 +41,7 @@ https://www.shortlyai.com/
 https://www.autodraw.com/
 
 ## AI Diseña un logotipo
-Crea un sitio web y crea una identidad de marca que te encantará con el poder de Al.
-
+Crea un sitio web y crea una identidad de marca que te encantará con el poder de Al.<br>
 https://www.looka.com
 
 ## AI para crear PCB
@@ -54,7 +68,7 @@ https://komprehend.io/emotion-analysis
 ## Crear video con Avatar & AI
 https://studio.d-id.com/
 
-## Vectorizer imagen AI
+## Vectorizer imagen AI (pago)
 https://vectorizer.ai/
 
 ## Practicar entrevista de trabajo en ingles
@@ -63,8 +77,6 @@ https://vectorizer.ai/
 ## Mover la cara de una persona de una foto con AI
 https://huggingface.co/spaces/jbilcke-hf/FacePoke
 
-## Crea interfaz graficas tipo chatGpt3 (no me pude registrar)
-https://v0.dev/
 
 ## Codex Open AI
 https://openai.com/blog/openai-codex
@@ -72,6 +84,7 @@ https://openai.com/blog/openai-codex
 ## Verificar CV with AI
 También te dice si tu CV es legible por sistemas ATS (el sistema automático que usan las empresas y los reclutadores)
 https://www.resumego.net/resume-checker/
+
 
 <br>
 
@@ -83,6 +96,12 @@ https://gtmetrix.com/ <br>
 
 ## Abre Microsoft Word en el browser
 doc.new
+
+## 1500+ free HTML templates
+https://htmlrev.com/
+
+## Extension Chrome para capturar páginas web completas con un solo clic (GoFullPage)
+https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?pli=1
 
 ## Genetarador de Grid para CSS (bueno)
 https://www.tailwindgen.com/
@@ -165,7 +184,7 @@ https://calculadorasonline.com/calculadora-de-horas-minutos-y-segundos-sumar-hor
 
 # Imagens Tools
 
-## Vectorizar imagen gratis
+## Vectorizar imagen gratis (PNG to SVG free)
 https://vectorizer.com/es/
 
 ## Editor de imágenes avanzado 
